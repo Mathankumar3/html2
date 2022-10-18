@@ -1,0 +1,96 @@
+ .parent{
+    background-color: green;
+    display: flex;
+    /* flex-direction: column;  */
+     flex-wrap:nowrap ;
+} 
+ .parent>div{
+    background-color: yellow;
+    margin: 10px;
+    padding: 40px;
+    font-size: 15px;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* /* body{
+    background-color: cadetblue;
+}
+.box-part{
+    background-color: whitesmoke;
+    padding: 50px 10px;
+    margin: 30px 0px;
+}
+.fa{
+    color:blue;
+}
+a{
+    border-bottom: 1px solid blue;
+}
+p{
+    font-size: 12px;
+}
+.box{
+    padding: 60px,0px;
+}
+body{
+    background-color: cadetblue;
+}
+.box-part{
+    background-color: whitesmoke;
+    padding: 50px 10px;
+    margin: 30px 0px;
+}
+
+.fa{
+    color:blue;
+}
+a{
+    border-bottom: 1px solid blue;
+}
+p{
+    font-size: 12px;
+}
+.box{
+    padding: 60px,0px;
+}
+.fa{
+    color:blue;
+}
+a{
+    border-bottom: 1px solid blue;
+}
+p{
+    font-size: 12px;
+}
+.box{
+    padding: 60px,0px;
+} */
+
+/* function mam(){
+    var res=document.getElementById("main").value;
+    console.log(res);
+    var res1=document.getElementById("main1").value;
+    console.log(res1);
+    var res2=document.getElementById("main2").value;
+    console.log(res2);
+    var res3=document.getElementById("main3").value;
+    console.log(res3);
+} */
